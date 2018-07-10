@@ -1,0 +1,15 @@
+*{
+font-family: 'Open Sans', sans-serif;
+}
+.headerHeading{
+  font-family: 'Chela One', cursive !important;
+  font-size: 1.2rem !important;
+  font-weight: 600;
+}
+.searchBox{
+
+}
+
+.details{
+background-color: #fad048;
+}
